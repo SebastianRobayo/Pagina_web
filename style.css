@@ -303,12 +303,22 @@ body{
     margin-bottom: 30px;
 }
 
+.footer_social{
+    display: flex;
+}
+
 .icon{
     width: 70px;
 }
 
 .footer_img{
     width: 100%;
+}
+
+.footer_copyright{
+    padding-top: 30px;
+    border-top: 2px solid #000;
+    text-align: center;
 }
 
 
