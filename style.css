@@ -92,13 +92,13 @@ body{
     color: var(--color-title);
 }
 
-.title_border::after{
+.html_title::after{
     content: "";
     display: block;
     width: 100px;
-    margin-top: 20px;
+    margin-top: 10px;
     height: 4px;
-    background-color: var(--color-primary);
+    background-color: #2AD6D6;
 }
 
 .info{
